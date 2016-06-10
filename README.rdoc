@@ -18,8 +18,7 @@ Things you may want to cover:
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
-work like a charm1
-222
+Working like acharm
 * ...
 
 Please feel free to use a different markup language if you do not plan to run
