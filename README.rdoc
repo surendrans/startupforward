@@ -19,7 +19,7 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 Working like acharm12 work1
-* ...211
+* ...2111
 32
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.12
