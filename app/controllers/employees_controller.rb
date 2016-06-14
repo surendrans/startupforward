@@ -3,6 +3,7 @@ class EmployeesController < ApplicationController
 
 
   def index
+    #co
     @employees = Employee.all
   end
 
