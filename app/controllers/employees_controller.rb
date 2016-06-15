@@ -3,7 +3,7 @@ class EmployeesController < ApplicationController
 
 
   def index
-    #a2w
+    #a2ws
     @employees = Employee.all
   end
 
