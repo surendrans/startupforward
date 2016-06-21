@@ -3,7 +3,7 @@ class EmployeesController < ApplicationController
 
 
   def index
-    #a2wswwsdsddasdfzdas asadsdas ds add commentads
+    #a2wswwsdsddasdfzdas asadsdas ds add commentads co
     @employees = Employee.all
   end
 
