@@ -47,3 +47,4 @@ end
 
 gem "therubyracer"
 gem "twitter-bootstrap-rails"
+gem 'git-log-time', :github => 'sivakb/git-log-time'
